@@ -11,3 +11,12 @@
 .text:active {
   color: #c95a5a;
 }
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.language-active {
+  font-weight: bold;
+}

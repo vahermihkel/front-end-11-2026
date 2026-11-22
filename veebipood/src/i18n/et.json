@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "giftcards": "Kinkekaardid",
+    "settings": "Seaded",
+    "calculator": "Kalkulaator",
+    "shops": "Esindused",
+    "products": "Tooted",
+    "cart": "Ostukorv",
+    "supplier-products": "Tarnija tooted"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "giftcards": "Giftcards",
+    "settings": "Settings",
+    "calculator": "Calculator",
+    "shops": "Shops",
+    "products": "Products",
+    "cart": "Cart",
+    "supplier-products": "Supplier products"
+  }
+}
